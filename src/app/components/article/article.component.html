@@ -1,0 +1,22 @@
+<article class="h-full bg-white shadow-2xl hover:scale-105 transition-transform relative">
+  <img
+    role="presentation"
+    default
+    class="object-cover w-full rounded h-44 bg-gray-500"
+    src="{{article.urlToImage}}"
+  >
+  <span
+    class="absolute bg-blue-100 text-blue-500 px-2 py-1 left-3 top-3 text-xs rounded font-semibold">
+    {{ article.source.name }}
+  </span>
+  <div class="p-6 space-y-2">
+    <h3 class="text-xl font-semibold line-clamp-3">
+      {{ article.title }}
+    </h3>
+    <div class="text-xs font-semibold text-gray-500 flex flex-wrap justify-between">
+      <span class="">{{ article.publishedAt | date: 'dd.MM.yyyy' }}</span>
+      <span class="">{{ article.author }}</span>
+    </div>
+    <p class="line-clamp-5">{{ article.description }}</p>
+  </div>
+</article>

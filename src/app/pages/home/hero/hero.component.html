@@ -1,0 +1,61 @@
+<div class="grid grid-cols-1 sm:grid-cols-12 gap-5">
+
+  <div class="sm:col-span-7 " *ngIf="article?.length">
+    <a href="#" class="relative overflow-hidden block h-full rounded overflow-hidden shadow-xl">
+      <img
+        class="w-full h-full object-cover block"
+        default
+        src="{{article[0].urlToImage}}"
+        alt="{{article[0].title}}"
+      >
+      <span
+        class="absolute bg-blue-100 text-blue-500 px-2 py-1 left-3 top-3 text-xs rounded font-semibold">
+        {{ article[0].source.name }}
+      </span>
+      <div
+        class="absolute w-full bottom-0 left-0 mt-3 text-white bg-black/75 p-4 flex flex-col justify-between leading-normal">
+        <p
+          class="font-bold text-2xl mb-2"
+        >
+          {{ article[0].title }}
+        </p>
+        <p class="text-base mt-2">{{ article[0].description }}</p>
+      </div>
+    </a>
+
+  </div>
+
+  <div class="sm:col-span-5 flex flex-col gap-5">
+    <article class="flex" *ngFor="let item of article | slice:1">
+      <a
+        href="#"
+        class="w-[150px] h-[94px] mr-2 block flex-[0_0_150px]"
+        >
+        <img
+          class="w-full h-full object-cover rounded overflow-hidden shadow-lg"
+          default
+          src="{{ item.urlToImage }}"
+          alt="{{ item.title }}"
+        >
+      </a>
+      <div class="flex flex-col">
+        <a href="#"
+           class="text-gray-900 font-semibold text-sm font-semibold hover:text-blue-500 transition duration-500 ease-in-out"
+        >
+          {{ item.title | slice:0:80}}
+        </a>
+        <div class="mt-auto flex justify-between items-center">
+          <div class="bg-blue-100 text-blue-500 px-2 py-1 left-3 bottom-3 text-xs rounded font-semibold">
+            {{ item.source.name }}
+          </div>
+          <div class="text-xs font-semibold">
+            {{ item.publishedAt | date: 'dd.MM.yyyy' }}
+          </div>
+
+        </div>
+      </div>
+    </article>
+
+  </div>
+
+</div>
