@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 1000,
+  "articles": [
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "RMC Sport",
+      "title": "DIRECT. Euro 2024 (qualifs): le match de la peur Ukraine-Italie et tous les résultats du soir en live - RMC Sport",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMirgFodHRwczovL3JtY3Nwb3J0LmJmbXR2LmNvbS9mb290YmFsbC9ldXJvL3F1YWxpZmljYXRpb25zL2RpcmVjdC1ldXJvLTIwMjQtcXVhbGlmcy1sZS1tYXRjaC1kZS1sYS1wZXVyLXVrcmFpbmUtaXRhbGllLWV0LXRvdXMtbGVzLXJlc3VsdGF0cy1kdS1zb2lyLWVuLWxpdmVfTFMtMjAyMzExMjAwNzUyLmh0bWzSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-11-20T20:34:37Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "AS ",
+      "title": "Macedonia del Norte - Inglaterra, en directo: clasificación Euro 2024, hoy en vivo - AS ",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vYXMuY29tL2Z1dGJvbC9ldXJvY29wYS9tYWNlZG9uaWEtZGVsLW5vcnRlLWluZ2xhdGVycmEtZW4tZGlyZWN0by1jbGFzaWZpY2FjaW9uLWV1cm8tMjAyNC1ob3ktZW4tdml2by1uL9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-11-20T20:29:27Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "ESPN Deportes",
+      "title": "Dupont se perderá el Seis Naciones 2024 para sumarse al Seven - ESPN - ESPN Deportes",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMilgFodHRwczovL2VzcG5kZXBvcnRlcy5lc3BuLmNvbS9ydWdieS9ub3RhL18vaWQvMTI4OTMzNzkvYW50b2luZS1kdXBvbnQtc2UtcGVyZGVyYS1lbC1zZWlzLW5hY2lvbmVzLXBhcmEtc3VtYXJzZS1hbC1zZXZlbi1mcmFuY2lhLWp1ZWdvcy1vbGltcGljb3MtcnVnYnnSAaMBaHR0cHM6Ly9lc3BuZGVwb3J0ZXMuZXNwbi5jb20vcnVnYnkvbm90YS9fL2lkLzEyODkzMzc5L2FudG9pbmUtZHVwb250LXNlLXBlcmRlcmEtZWwtc2Vpcy1uYWNpb25lcy1wYXJhLXN1bWFyc2UtYWwtc2V2ZW4tZnJhbmNpYS1qdWVnb3Mtb2xpbXBpY29zLXJ1Z2J5P3BsYXRmb3JtPWFtcA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-11-20T20:24:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "TUDN",
+      "title": "Copa América 2024: Se definen las sedes del partido inaugural y Final del torneo | TUDN Copa América - TUDN",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnR1ZG4uY29tL2Z1dGJvbC9jb3BhLWFtZXJpY2EvY29wYS1hbWVyaWNhLTIwMjQtZGVmaW5lbi1zZWRlcy1wYXJ0aWRvLWluYXVndXJhbC1maW5hbC10b3JuZW_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-11-20T20:12:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "iROZHLAS",
+      "title": "Česko - Moldavsko 1:0 Kvalifikace mistrovství Evropy ve fotbale - iROZHLAS",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vd3d3Lmlyb3pobGFzLmN6L2ZvdGJhbC1vbmxpbmUvNDE0MjYy0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-11-20T20:11:01Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Rugbyrama",
+      "title": "Intouchable, Antoine Dupont (encore) doublement sacré à la Nuit du rugby - Rugbyrama",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnJ1Z2J5cmFtYS5mci8yMDIzLzExLzIwL251aXQtZHUtcnVnYnktZHVwb250LWxpbnRvdWNoYWJsZS0xMTU5MjA5OC5waHDSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-11-20T20:06:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "ESPN",
+      "title": "Julia Riera no pudo superar el debut en el WTA 125 de Florianópolis - ESPN - ESPN",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5lc3BuLmNvbS5wZS90ZW5pcy9ub3RhL18vaWQvMTI4OTMyNDAvanVsaWEtcmllcmEtbm8tcHVkby1zdXBlcmFyLWVsLWRlYnV0LWVuLWVsLXd0YS0xMjUtZGUtZmxvcmlhbm9wb2xpcy1kZXNwaW5hLXBhcGFtaWNoYWls0gGVAWh0dHBzOi8vd3d3LmVzcG4uY29tLnBlL3RlbmlzL25vdGEvXy9pZC8xMjg5MzI0MC9qdWxpYS1yaWVyYS1uby1wdWRvLXN1cGVyYXItZWwtZGVidXQtZW4tZWwtd3RhLTEyNS1kZS1mbG9yaWFub3BvbGlzLWRlc3BpbmEtcGFwYW1pY2hhaWw_cGxhdGZvcm09YW1w?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-11-20T20:04:23Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "infobae",
+      "title": "“Madre mía, qué maravilla”: el golazo de Gabriel Batistuta a los 54 años que dio la vuelta al mundo - infobae",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5pbmZvYmFlLmNvbS9kZXBvcnRlcy8yMDIzLzExLzIwL21hZHJlLW1pYS1xdWUtbWFyYXZpbGxhLWVsLWdvbGF6by1kZS1nYWJyaWVsLWJhdGlzdHV0YS1hLWxvcy01NC1hbm9zLXF1ZS1kaW8tbGEtdnVlbHRhLWFsLW11bmRvL9IBoAFodHRwczovL3d3dy5pbmZvYmFlLmNvbS9kZXBvcnRlcy8yMDIzLzExLzIwL21hZHJlLW1pYS1xdWUtbWFyYXZpbGxhLWVsLWdvbGF6by1kZS1nYWJyaWVsLWJhdGlzdHV0YS1hLWxvcy01NC1hbm9zLXF1ZS1kaW8tbGEtdnVlbHRhLWFsLW11bmRvLz9vdXRwdXRUeXBlPWFtcC10eXBl?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-11-20T20:04:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Takungpao.com"
+      },
+      "author": null,
+      "title": "﻿水庆霞不再担任中国女足主教练 - 大公報",
+      "description": null,
+      "url": "http://www.takungpao.com/life/238149/2023/1121/915082.html",
+      "urlToImage": null,
+      "publishedAt": "2023-11-20T20:03:06Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "UEFA.com",
+      "title": "Fase de clasificación para la UEFA EURO 2024: qué ver en la décima jornada | Clasificatorios Europeos - UEFA.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vZXMudWVmYS5jb20vZXVyb3BlYW4tcXVhbGlmaWVycy9uZXdzLzAyODctMTk3ZGI5YmU0NWIyLTY2YzU5ZTVkMDNkZC0xMDAwLS1xdWUtdmVyLWVsLW1hcnRlcy_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-11-20T20:02:48Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Rumbo a Tokio",
+      "title": "Las mejores frases de Scaloni previo al clásico de la Selección Argentina vs. Brasil - Rumbo a Tokio",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy50eWNzcG9ydHMuY29tL3NlbGVjY2lvbi1hcmdlbnRpbmEvc2NhbG9uaS1oYWJsYS1lbi1sYS1wcmV2aWEtYWwtY2xhc2ljby1kZS1sYS1zZWxlY2Npb24tYXJnZW50aW5hLWNvbnRyYS1icmFzaWwtaWQ1NDg3NjAuaHRtbNIBjQFodHRwczovL3d3dy50eWNzcG9ydHMuY29tL2FtcC9zZWxlY2Npb24tYXJnZW50aW5hL3NjYWxvbmktaGFibGEtZW4tbGEtcHJldmlhLWFsLWNsYXNpY28tZGUtbGEtc2VsZWNjaW9uLWFyZ2VudGluYS1jb250cmEtYnJhc2lsLWlkNTQ4NzYwLmh0bWw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-11-20T19:54:51Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Diario AS",
+      "title": "ÁLVARO BENITO y SU SOLUCIÓN para el VIRUS FIFA, LESIONES y el CALENDARIO - Diario AS",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CCAiCzJ5b0pmVFdud01JmAEB?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-11-20T19:54:09Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Real Federación Española Fútbol",
+      "title": "#CopaFederación 2023: el último título nacional del año, ¡EN JUEGO! - Real Federación Española Fútbol",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CCAiCzVxTUNLSXNpamdzmAEB?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-11-20T19:41:33Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Diario AS",
+      "title": "¿FAVORITOS para GANAR la EUROCOPA?: Responde ÁLVARO BENITO - Diario AS",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CCAiCzJrdGxkS1RSTTYwmAEB?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-11-20T19:41:10Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "watson",
+      "title": "FC Bayern: Nationaltrainer enthüllt FCB-Interesse an Offensiv-Star - watson",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LndhdHNvbi5kZS9zcG9ydC9mdSVDMyU5RmJhbGwvNDM4OTE1NzQ4LWZjLWJheWVybi1uYXRpb25hbHRyYWluZXItZW50aHVlbGx0LWZjYi1pbnRlcmVzc2UtYW4tb2ZmZW5zaXYtc3RhctIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-11-20T19:40:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "EL HERALDO",
+      "title": "Jugador de Junior Jhon Vélez, involucrado en siniestro vial en Puerto - EL HERALDO",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmVsaGVyYWxkby5jby9qdWRpY2lhbC9qdWdhZG9yLWRlLWp1bmlvci1kZS1iYXJyYW5xdWlsbGEtamhvbi12ZWxlei1pbnZvbHVjcmFkby1lbi1zaW5pZXN0cm8tdmlhbC1lbi1wdWVydG_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-11-20T19:39:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Gazzetta.gr",
+      "title": "Πρόεδρος Ρίο Άβε για την επένδυση του Βαγγέλη Μαρινάκη: «Μέρος του ευρωπαϊκού του project η ομάδα, πολύ σημαντ - Gazzetta.gr",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmdhenpldHRhLmdyL2Zvb3RiYWxsL3N1cGVybGVhZ3VlLzIyNzY3NDUvcHJvZWRyb3MtcmlvLWFiZS1naWEtdGluLWVwZW5keXNpLXRveS1iYWdnZWxpLW1hcmluYWtpLW1lcm9zLXRvedIBeWh0dHBzOi8vd3d3LmdhenpldHRhLmdyL2Zvb3RiYWxsL3N1cGVybGVhZ3VlLzIyNzY3NDUvcHJvZWRyb3MtcmlvLWFiZS1naWEtdGluLWVwZW5keXNpLXRveS1iYWdnZWxpLW1hcmluYWtpLW1lcm9zLXRveT9hbXA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-11-20T19:38:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Nova",
+      "title": "ВЕЛИКОЛЕПНИ: Българките са шампиони на Европа по шахмат - Nova",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMizgJodHRwczovL25vdmEuYmcvbmV3cy92aWV3LzIwMjMvMTEvMjAvNDMzOTkyLyVEMCVCMiVEMCVCNSVEMCVCQiVEMCVCOCVEMCVCQSVEMCVCRSVEMCVCQiVEMCVCNSVEMCVCRiVEMCVCRCVEMCVCOC0lRDAlQjElRDElOEElRDAlQkIlRDAlQjMlRDAlQjAlRDElODAlRDAlQkElRDAlQjglRDElODIlRDAlQjUtJUQxJTgxJUQwJUIwLSVEMSU4OCVEMCVCMCVEMCVCQyVEMCVCRiVEMCVCOCVEMCVCRSVEMCVCRCVEMCVCOC0lRDAlQkQlRDAlQjAtJUQwJUI1JUQwJUIyJUQxJTgwJUQwJUJFJUQwJUJGJUQwJUIwLSVEMCVCRiVEMCVCRS0lRDElODglRDAlQjAlRDElODUlRDAlQkMlRDAlQjAlRDElODIv0gHRAmh0dHBzOi8vbm92YS5iZy9hbXAvbmV3cy92aWV3LzIwMjMvMTEvMjAvNDMzOTkyLyVEMCVCMiVEMCVCNSVEMCVCQiVEMCVCOCVEMCVCQSVEMCVCRSVEMCVCQiVEMCVCNSVEMCVCRiVEMCVCRCVEMCVCOC0lRDAlQjElRDElOEElRDAlQkIlRDAlQjMlRDAlQjAlRDElODAlRDAlQkElRDAlQjglRDElODIlRDAlQjUtJUQxJTgxJUQwJUIwLSVEMSU4OCVEMCVCMCVEMCVCQyVEMCVCRiVEMCVCOCVEMCVCRSVEMCVCRCVEMCVCOC0lRDAlQkQlRDAlQjAtJUQwJUI1JUQwJUIyJUQxJTgwJUQwJUJFJUQwJUJGJUQwJUIwLSVEMCVCRiVEMCVCRS0lRDElODglRDAlQjAlRDElODUlRDAlQkMlRDAlQjAlRDElODI?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-11-20T19:35:37Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "EL PAÍS",
+      "title": "Djokovic, lanzado a por la Copa Davis: “Mi cuerpo funciona y me escucha, la motivación sigue ahí” - EL PAÍS",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMijgFodHRwczovL2VscGFpcy5jb20vZGVwb3J0ZXMvdGVuaXMvMjAyMy0xMS0yMC9kam9rb3ZpYy1sYW56YWRvLWEtcG9yLWxhLWNvcGEtZGF2aXMtbWktY3VlcnBvLWZ1bmNpb25hLXktbWUtZXNjdWNoYS1sYS1tb3RpdmFjaW9uLXNpZ3VlLWFoaS5odG1s0gGdAWh0dHBzOi8vZWxwYWlzLmNvbS9kZXBvcnRlcy90ZW5pcy8yMDIzLTExLTIwL2Rqb2tvdmljLWxhbnphZG8tYS1wb3ItbGEtY29wYS1kYXZpcy1taS1jdWVycG8tZnVuY2lvbmEteS1tZS1lc2N1Y2hhLWxhLW1vdGl2YWNpb24tc2lndWUtYWhpLmh0bWw_b3V0cHV0VHlwZT1hbXA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-11-20T19:35:06Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "WKO",
+      "title": "Beim Finale der AustrianSkills wird die Mozartstadt zur Bühne für Berufsbildung - WKO",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lndrby5hdC9vZS9uZXdzL2ZpbmFsZS1hdXN0cmlhbnNraWxscy1tb3phcnRzdGFkdC1idWVobmUtYmVydWZzYmlsZHVuZ9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-11-20T19:33:43Z",
+      "content": null
+    }
+  ]
+}

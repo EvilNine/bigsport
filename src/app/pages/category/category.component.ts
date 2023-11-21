@@ -13,7 +13,7 @@ export class CategoryComponent implements OnDestroy {
   private destroy$ = new Subject<undefined>()
 
   public news: INews[] | null
-  public category: string | null
+  public category: string
 
   constructor(
     private route: ActivatedRoute,
@@ -22,8 +22,10 @@ export class CategoryComponent implements OnDestroy {
     this.route.params.pipe( takeUntil(this.destroy$) )
       .subscribe((params: Params) => {
         this.category = params.id
-        this.newsService.getData(`everything?q=${this.category}`)
+        this.newsService.getData(this.category)
           .subscribe(data => { this.news = data.articles });
+        // this.newsService.getData(`everything?q=${this.category}`)
+        //   .subscribe(data => { this.news = data.articles });
     });
   }
 

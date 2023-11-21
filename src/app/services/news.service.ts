@@ -21,11 +21,19 @@ export class NewsService {
 
   @CachedRequest(function () { return this.cache })
   getData(url: string, pageSize: number = 8): Observable<IData> {
-    return this.http.get<IData>(`${apiUrl}/${url}&apiKey=${apiKey}`, {
+    return this.http.get<IData>(`../../assets/data/${url}.json`, {
       params: new HttpParams({
         fromObject: { pageSize }
-      })
+      }),
+      responseType: "json"
     })
   }
+  // getData(url: string, pageSize: number = 8): Observable<IData> {
+  //   return this.http.get<IData>(`${apiUrl}/${url}&apiKey=${apiKey}`, {
+  //     params: new HttpParams({
+  //       fromObject: { pageSize }
+  //     })
+  //   })
+  // }
 
 }

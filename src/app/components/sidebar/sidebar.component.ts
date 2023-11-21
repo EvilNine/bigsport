@@ -18,7 +18,7 @@ export class SidebarComponent implements OnInit{
   }
 
   getHeadlinesData(){
-    this.newsService.getData('top-headlines?category=sports', 10)
+    this.newsService.getData('top-headlines', 10)
       .subscribe(data => { this.news = data.articles });
   }
 
